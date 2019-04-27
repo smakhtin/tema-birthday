@@ -1,5 +1,5 @@
 <!DOCTYPE PATCH  SYSTEM "http://vvvv.org/versions/vvvv50beta38.1.dtd" >
-   <PATCH nodename="C:\Users\vadim\projects\tema-birthday\_Main (DX11).v4p" systemname="_Main (DX11)" filename="C:\Users\vadim\projects\tema-birthday\_Main (DX11).v4p" scrollx="0" scrolly="14640" locked="0">
+   <PATCH nodename="C:\Users\vadim\projects\tema-birthday\_Main (DX11).v4p" systemname="_Main (DX11)" filename="C:\Users\vadim\projects\tema-birthday\_Main (DX11).v4p" scrollx="0" scrolly="11400" locked="0">
    <BOUNDS type="Window" left="192" top="180" width="18552" height="11820">
    </BOUNDS>
    <NODE systemname="Camera (Transform Softimage)" filename="%VVVV%\lib\packs\VL.EditingFramework.0.94.50-gf563f1b382\vvvv\nodes\modules\Camera (Transform Softimage).v4p" nodename="Camera (Transform Softimage)" componentmode="Hidden" id="1">
